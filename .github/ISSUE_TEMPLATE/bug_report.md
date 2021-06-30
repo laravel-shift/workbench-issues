@@ -7,10 +7,12 @@ assignees: ''
 
 ---
 
-**Desktop (please complete the following information):**
+<!-- Please complete the following sections -->
+
+**Desktop:**
  - OS: [e.g. Mac, Windows, Linux]
- - OS Version [e.g. Big Sur, 10, 18.12]
- - App Version [e.g. 0.1.0]
+ - OS Version: [e.g. Big Sur, 10, 18.12]
+ - App Version: [e.g. 0.1.0]
 
 **Describe the bug**
 Provide a short description of the bug. Just a sentence or two.
@@ -21,5 +23,5 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Run '....'
 
-**Screenshots**
-Please add any screenshots to help explain the bug.
+
+<!-- If possible, please attach any screenshots which may demonstrate the issue -->
